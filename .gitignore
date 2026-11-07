@@ -1,0 +1,17 @@
+/build*/
+/dist/
+/Reports/
+*.log
+*.user
+*.pdb
+*.obj
+*.exe
+*.dll
+*.lib
+*.zip
+*.wav
+*.aiff
+*.flac
+*.settings
+__pycache__/
+.runtime/
